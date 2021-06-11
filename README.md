@@ -30,5 +30,9 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 ## My stuff
 
 ```bundle exec jekyll serve --livereload --open-url```
+
 [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+
 cms content management system
+
+google analytics (maybe...?)
